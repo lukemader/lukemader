@@ -9,4 +9,4 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=lukemader&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemader&layout=compact&count_private=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemader&theme=radical&layout=compact&count_private=true)<br/>
