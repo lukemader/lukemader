@@ -8,5 +8,5 @@
 - 😄 Pronouns: He/Him<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=lukemader&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemader&layout=compact)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=lukemader&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemader&layout=compact)<br/>  -->
